@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@vercel/analytics": "^1.5.0"
+  }
+}
